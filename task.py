@@ -3,3 +3,6 @@ def saludar(nombre: str) -> str:
 
 def despedir(nombre: str) -> str:
     return "Adios ",nombre
+
+def revert_words(frase: str) -> str:
+    return frase[::-1]
