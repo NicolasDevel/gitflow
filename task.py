@@ -4,6 +4,7 @@ def saludar(nombre: str) -> str:
 def despedir(nombre: str) -> str:
     return "Adios ",nombre
 
+
 def revert_words(frase: str) -> str:
     return frase[::-1]
 
@@ -22,3 +23,7 @@ def hola_mundo():
     
 def jugar():
     print("hora de jugar")    
+
+def agradecer(nombre: str) -> str:
+    return "Gracias por todo, " + nombre
+
