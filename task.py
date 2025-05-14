@@ -3,3 +3,6 @@ def saludar(nombre: str) -> str:
 
 def despedir(nombre: str) -> str:
     return "Adios ",nombre
+
+def agradecer(nombre: str) -> str:
+    return "Gracias por todo, " + nombre
