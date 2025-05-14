@@ -19,3 +19,6 @@ def restar():
 
 def hola_mundo():
     print("Hola mundo")
+    
+def jugar():
+    print("hora de jugar")    
