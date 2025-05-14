@@ -16,3 +16,6 @@ def restar():
     nun1 = 12
     num2 = 6
     return nun1-num2
+
+def hola_mundo():
+    print("Hola mundo")
